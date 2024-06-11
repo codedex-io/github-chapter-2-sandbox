@@ -1,2 +1,2 @@
 Go ahead and fork this repository before cloning to your local computer! 😊
-hello just added stuff to my text file after branching.
+hello just branching.
