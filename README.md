@@ -1,1 +1,1 @@
-linh tinh
+khong con linh tinh nua
