@@ -1,0 +1,3 @@
+# Fancy New Project
+
+(☞ﾟヮﾟ)☞
