@@ -1,1 +1,5 @@
-## Git and Github course in codedex.io 
+## Git and Github course in codedex.io
+
+### Learning about PRs
+
+### PRs are cool
