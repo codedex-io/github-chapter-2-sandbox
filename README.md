@@ -1,3 +1,5 @@
 ## 09. Git & Teams
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac mauris ullamcorper, rutrum mauris ac, placerat augue. Nam nulla dolor, semper in efficitur a, aliquam eget enim. Aenean quis justo venenatis, tristique odio et, vestibulum urna. Etiam quis mattis diam. Quisque nec pellentesque velit, vel auctor nisl. Ut vel sollicitudin nulla. Mauris sodales mauris a lectus facilisis vehicula. Nullam convallis convallis pretium. Mauris et tincidunt nibh. Aenean faucibus tristique velit, in gravida felis vulputate et. Nunc malesuada, nunc quis viverra varius, arcu ex feugiat neque, at ultrices odio arcu ac tellus. Pellentesque egestas, leo facilisis fermentum bibendum, diam sapien tincidunt massa, in facilisis leo magna id felis. Nam eu ornare quam, sit amet fringilla nisl. Sed condimentum nulla nec scelerisque sagittis.
+No Lorem Ipsum only Laura Palmer
+
+![alt text](image-1.png)
