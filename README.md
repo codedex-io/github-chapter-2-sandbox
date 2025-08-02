@@ -1,0 +1,3 @@
+new readme file to demonstrate git pull
+
+day is 2/7/2025 :) done on bee52/edit branch...
