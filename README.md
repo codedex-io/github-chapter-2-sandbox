@@ -1,1 +1,1 @@
-
+KONNICHIWA
