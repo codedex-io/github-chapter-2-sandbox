@@ -1,1 +1,2 @@
 HOWDY PARTNER🙃
+Whatsup?
