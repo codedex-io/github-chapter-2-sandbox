@@ -1,0 +1,28 @@
+Hi, I'm learning Git and GitHub!
+This is my first time making changes to a forked repository.
+Today's date: 2024-01-24
+
+What I've learned so far:
+- How to fork a repository
+- How to clone repositories
+- How to make changes to files
+- Learning about commits and pushes
+
+This is a test change to verify Git is working!
+
+CHANGELOG:
+==========
+- First Change: Added initial introduction
+- Second Change: Testing Git commands
+- Third Change: Fixing Git errors
+
+STATUS:
+=======
+Working on resolving Git push issues
+Making sure changes are tracked properly
+Testing commit and push functionality
+
+FORK UPDATE:
+===========
+Successfully forked and cloned from my own repository
+Now making changes to test the connection
