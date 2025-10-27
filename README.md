@@ -3,7 +3,8 @@
 Welcome to my **Practice Repository**!  
 This repo is a playground for learning, experimenting, and improving my coding skills.  
 Here you'll find small projects, code snippets, and exercises as I explore new tools, frameworks, and programming concepts.
-
+Have fun studying! 
+📖🤩💪🏻
 ---
 
 ## 🚀 Purpose
