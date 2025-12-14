@@ -1,0 +1,4 @@
+Hi
+heheheha
+goofy
+mkdir
