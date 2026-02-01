@@ -1,1 +1,2 @@
-Learning git from codex website
+Learning git from codex website 
+on Sunday the Feb 1st
