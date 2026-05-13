@@ -6,6 +6,5 @@ Those are some changes
 
 Das ist ein weiteres 
 testobjek 
-Das ist eine weitere möglichkeit den Code zu Nutzen
 
-Das ist eine neue sache 
+Das ist ein Test. Der Testet eine Sache
