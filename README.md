@@ -1,1 +1,1 @@
-Slipki prime
+Slipki prime Jacentego
