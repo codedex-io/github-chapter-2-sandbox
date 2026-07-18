@@ -6,4 +6,4 @@
 
 ### git pull test
 
-### test git pull
+### test git fetch
