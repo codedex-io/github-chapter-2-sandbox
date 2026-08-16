@@ -1,2 +1,2 @@
 hola
-qn sos papu
+que dice la chavizaaaa
