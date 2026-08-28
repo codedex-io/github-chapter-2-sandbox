@@ -7,3 +7,12 @@
 - 6
 
 ` Iam learning pull requests now `
+
+
+# My GitHub Journey 🚀
+
+Edited by Hek3ro 😎
+
+Date: August 28, 2026 📅
+
+Learning Git, GitHub, branches and pull requests! 🌿🔥
