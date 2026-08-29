@@ -1,4 +1,7 @@
 # My Repository
 
-This is my first GitHub repository.
-I'm learning Git and GitHub!
+I'm learning Git and GitHub! 🚀
+
+Date: August 29, 2026 🌙
+
+Hello from my first GitHub project! 💻✨
