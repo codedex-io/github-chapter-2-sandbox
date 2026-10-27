@@ -1,1 +1,1 @@
-wow
+pikabu bushido halloween
